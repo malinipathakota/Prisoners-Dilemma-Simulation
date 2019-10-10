@@ -1,0 +1,14 @@
+package agents;
+
+public enum Strategy {
+	NAIVE_C,
+	NAIVE_D,
+	WALKAWAY_C,
+	WALKAWAY_D,
+	TFT_STATIONARY,
+	TFT_MOBILE,
+	PAVLOV_STATIONARY,
+	PAVLOV_MOBILE,
+	REALISTIC_TFT,
+	RETREAT
+}
